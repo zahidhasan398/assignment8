@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "name":"Account & Finance",
+        "logo":"https://media.istockphoto.com/id/1458847532/photo/3d-pack-of-green-banknotes-and-arrows-around-in-cartoon-style-the-concept-of-cashback-or.jpg?b=1&s=170667a&w=0&k=20&c=-O3RaSaUD68OIkEl6Iyp8xE26MOnLn-bphblsZEDRtY=",
+        "jobAbailable":"300"
+        
+    },
+    {  
+        "id":"2",
+        "name":"Creative Design",
+        "logo":"https://media.istockphoto.com/id/1322220448/photo/abstract-digital-futuristic-eye.jpg?b=1&s=170667a&w=0&k=20&c=wr_9DkDwY9aXmeue2cc-Rj4BD6UOhp8i_mFrAfbeGjQ=",
+        "jobAbailable":"270"
+        
+    },
+    {   "id":"3",
+        "name":"Marketing & Sales",
+        "logo":"https://media.istockphoto.com/id/930650714/photo/puzzle-concept-white-jigsaw-puzzles-on-blue-background.jpg?b=1&s=170667a&w=0&k=20&c=pCqvM6pBpqKw0apR38PnhQ0BPNuTl8rq2o_APZ7Q-5Q=",
+        "jobAbailable":"100"
+        
+    },
+    { 
+        "id":"4",
+        "name":"Engineering",
+        "logo":"https://media.istockphoto.com/id/1389487899/photo/innovation-gears-idea-and-imagination-creative-and-inspiration-concept.jpg?b=1&s=170667a&w=0&k=20&c=BHxtmMYk654fBHuBP_Bb2A110Rfgl1IC5Lpx3sS35QM=",
+        "jobAbailable":"200"
+        
+    }
+]
